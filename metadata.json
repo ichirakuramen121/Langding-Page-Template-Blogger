@@ -1,0 +1,6 @@
+{
+  "name": "Premium Blog Templates",
+  "description": "Landing page penjualan template blog premium dengan pencarian cepat, filter kategori, testimoni pelanggan, dan checkout instan ke lynk.id.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
